@@ -1,4 +1,5 @@
 
+
 👋 Hi, I’m @GzdeO
   
 💫I'm a passionate developer specializing in mobile app development with Kotlin. Dive into the magic of my code! 🚀📱
@@ -10,7 +11,7 @@
 🎉 I bring the excitement and fun of the tech world together in every project. Are you ready to join this journey? 🎮🤝
 
 
-[![linkedn](https://github.com/GzdeO/GzdeO/assets/137268577/3dbe76ac-46db-4dea-88c9-747e1911477c)](https://www.linkedin.com/in/g%C3%B6zde-%C3%B6-70570a244/)
+[![linked-in-2668700_640](https://github.com/GzdeO/GzdeO/assets/137268577/1d52cf17-5060-47d7-ba33-b70298347d27)](https://www.linkedin.com/in/g%C3%B6zde-%C3%B6-70570a244/)
 
 
 
