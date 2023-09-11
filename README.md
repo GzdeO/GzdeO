@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GzdeO
-- 
+  
 - 💫I'm a passionate developer specializing in mobile app development with Kotlin. Dive into the magic of my code! 🚀📱
 
 -🌟 My goal is to deliver a unique experience with each new project. I love using technology to simplify people's lives. 🌈💡
