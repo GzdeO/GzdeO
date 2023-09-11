@@ -9,8 +9,7 @@
 
 🎉 I bring the excitement and fun of the tech world together in every project. Are you ready to join this journey? 🎮🤝
 
-
-![linkedn](https://www.linkedin.com/in/g%C3%B6zde-%C3%B6-70570a244/)
+[![linkedn](https://github.com/GzdeO/GzdeO/assets/137268577/68634504-725f-430a-9320-18ace2daba65)](https://www.linkedin.com/in/g%C3%B6zde-%C3%B6-70570a244/)
 
 
 
