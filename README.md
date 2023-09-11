@@ -9,5 +9,6 @@
 🎉 I bring the excitement and fun of the tech world together in every project. Are you ready to join this journey? 🎮🤝
 
 
+https://www.linkedin.com/in/g%C3%B6zde-%C3%B6-70570a244/
 
 
