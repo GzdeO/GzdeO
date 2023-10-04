@@ -1,6 +1,6 @@
 
 
-👋 Hello, I'm @GzdeO
+👋 Hello, I'm Gözde.
 
 💖 Kotlin enthusiast for Android. 
 
