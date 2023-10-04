@@ -4,7 +4,7 @@
 
 💖 Kotlin enthusiast for Android. 
 
-🎯 I’m currently learning everything 🤣 
+🎯 I’m currently learning everything 
 
 🌟 My goal is to deliver a unique experience with each new project. I love using technology to simplify people's lives. 🌈💡
 
